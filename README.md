@@ -4,7 +4,7 @@
 
 ...
 
-!["Mice Poke PCB"](./micepoke.png)
+!["Mice Poke PCB"](./Assets/pcb.png)
 
 ----
 
