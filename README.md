@@ -22,14 +22,17 @@
 
 ## Key Features
 
-- ...
+* Poke detection through an infrared beam
+* Control of 2 LEDs + an external LED
+* 12V valve control when connected to an Harp Behavior
 
 
 ----
 
-## Connectivity
+## Connectivity [v1.3]
 
-- ...
+* 1x 12V Valve [screw terminal]  
+* 1x DIO, IR LED, IR Photodiode, LED, 5V, GND  [screw terminal] 
 
 
 ----
