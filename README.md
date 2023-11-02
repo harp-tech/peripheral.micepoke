@@ -2,8 +2,6 @@
 
 ## General description
 
-...
-
 !["Mice Poke PCB"](./Assets/pcb.png)
 
 ----
@@ -14,9 +12,8 @@
 
 | Peripheral HW Version 	| Board           	                                                | Board HW Version 	| Notes                            	|
 |-----------------------	|-----------------	                                                |------------------	|----------------------------------	|
-| **1.4.1**                 | [Device.Behavior](https://github.com/harp-tech/device.behavior) 	| > 2.0             |                                	|
-|                       	| [Device.Behavior](https://github.com/harp-tech/device.behavior)   | > 1.2             |                                	|
-| **2.0.0**                 | [Device.Behavior](https://github.com/harp-tech/device.behavior)   | > 2.0             | Can be powered with 3.3 or 5V 	|
+| **1.3**                 | [Device.Behavior](https://github.com/harp-tech/device.behavior) 	| > 1.0             |                                	|
+| **1.2**                 | [Device.Behavior](https://github.com/harp-tech/device.behavior)   | > 1.0             |                                	|
 |                       	|                 	                                                |                  	|                                  	|
 ----
 
