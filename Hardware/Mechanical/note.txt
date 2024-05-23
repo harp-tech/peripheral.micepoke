@@ -1,1 +1,2 @@
 Version 1.2 has an height offset of 0.5 mm.
+Version 1.3 is equivalent to v1.2 without small holes in the LEDs orifices
